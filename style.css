@@ -1,0 +1,17 @@
+input{
+    color: black;
+    background-color: aqua;
+    font-weight: bold;
+    border-radius: 30;
+}
+span{
+    font-weight: bold;
+    color: black;
+    
+}
+button{
+    color: black;
+    background-color: aqua;
+    font-weight: bold;
+    border-radius: 30;
+}
